@@ -1,0 +1,32 @@
+body{
+	background-color:#126CB4;
+background-attachment: fidex;
+margin: 0px;
+padding: 0px;
+}
+.cabecera{
+margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	color:#6F429A ;
+	background: #6F429A; 
+	font-size: 2em;
+	line-height: 1em;	
+	padding-top: 5px;
+moz-box-shadow: 0px 0px 10px 20px #FFCC99;
+-o-box-shadow: 0px 0px 10px 20px #FFCC99;
+-webkit-box-shadow: 0px 0px 10px 20px #FFCC99;
+margin-bottom: 30px;
+}
+a{
+text-aling: center;
+color:#6F429A ;
+text-decoration;
+background-color:#FFFFFF;
+FONT-SIZE:19PT;
+font-weight:900;
+border: 1px solid #FFFFFF;
+margin-left:5px;
+border-radius:0px 0px 10px 10px;
+}
+
